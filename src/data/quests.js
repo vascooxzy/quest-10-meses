@@ -21,7 +21,7 @@ export const QUESTS = [
     day: 9,
     title: "A Primeira Vez",
     question: "Qual foi o primeiro filme que vimos juntos?",
-    answer: "Lilo & Stitch",
+    answer: "Minecraft",
     hint: "Aquele dia especial no cinema...",
     image: "/images/part2.jpg",
     color: "#c4a8e8",
